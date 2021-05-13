@@ -51,3 +51,9 @@ To launch the .NET MAUI project, you will need to specify a `$(TargetFramework)`
     dotnet build HelloMaui -t:Run -f net6.0-android
     dotnet build HelloMaui -t:Run -f net6.0-ios
     dotnet build HelloMaui -t:Run -f net6.0-maccatalyst
+
+
+### References
+    * https://devblogs.microsoft.com/xamarin/the-new-net-multi-platform-app-ui-maui/
+    * https://github.com/dotnet/maui
+    * https://github.com/dotnet/net6-mobile-samples
